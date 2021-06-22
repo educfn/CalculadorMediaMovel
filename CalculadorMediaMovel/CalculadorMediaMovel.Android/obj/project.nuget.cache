@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iTk/S66v8ep3Yf7iBxV+6wRGKu6+BbOch0SQiFpmyzmSnYS6gfKFRBvQJJ23kyoZMaJnSx0OOdpafBCEwD2MmA==",
+  "dgSpecHash": "pBDVdD5lu5a3F0C7TtiN2cW5+weCPAer8TeFNdMFtme68BnZdt9dzKYYAEQS89fkS9BxphsEtQcAikRAC33mdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj",
+  "projectFilePath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo CFN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\CalculadorMediaMovel.iOS.csproj",
+      "projectUniqueName": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\CalculadorMediaMovel.iOS.csproj",
       "projectName": "CalculadorMediaMovel.iOS",
-      "projectPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\CalculadorMediaMovel.iOS.csproj",
+      "projectPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\CalculadorMediaMovel.iOS.csproj",
       "packagesPath": "C:\\Users\\Eduardo CFN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\obj\\",
+      "outputPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj": {
-              "projectPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj"
+            "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj": {
+              "projectPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj"
             }
           }
         }

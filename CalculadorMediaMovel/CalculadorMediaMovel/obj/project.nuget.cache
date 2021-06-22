@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eA1eUWGahTh1meyZZ+hQN7rP932uEBqFvCXyMmAOjOE+xDesrYckIlT5sF3VfkVqOMpu7YAy5jLPe/d+nDgLAA==",
+  "dgSpecHash": "j4L1M3ut+uEbUTDLtYGEMOFt1JyDFW5FNvgcuMs6i+a6rfj/bh889JOPy3Me0OFpH/zhTPWpBeZqazHLb95i1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj",
+  "projectFilePath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eduardo CFN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Eduardo CFN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

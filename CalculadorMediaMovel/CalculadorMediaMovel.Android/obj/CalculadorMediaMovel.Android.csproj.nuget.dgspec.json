@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj": {}
+    "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj": {
+    "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj",
+        "projectUniqueName": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj",
         "projectName": "CalculadorMediaMovel.Android",
-        "projectPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj",
+        "projectPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\CalculadorMediaMovel.Android.csproj",
         "packagesPath": "C:\\Users\\Eduardo CFN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\obj\\",
+        "outputPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj": {
-                "projectPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj"
+              "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj": {
+                "projectPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj": {
+    "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj",
+        "projectUniqueName": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj",
         "projectName": "CalculadorMediaMovel",
-        "projectPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj",
+        "projectPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.csproj",
         "packagesPath": "C:\\Users\\Eduardo CFN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\obj\\",
+        "outputPath": "C:\\Code\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
