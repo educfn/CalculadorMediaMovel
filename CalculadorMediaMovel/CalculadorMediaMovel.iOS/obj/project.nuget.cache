@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "po995ALvxaa9/NEe8Gb5/6lTdIEkQ9GKxr2lTDpwkPF/y0yG0x/kfxHxVlEq25JQ/sXOtnuK9hZPvA2rX6njhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eduardo CFN\\Documents\\Atividades\\2021\\6-junho\\atividade-1\\CalculadorMediaMovel\\CalculadorMediaMovel\\CalculadorMediaMovel.iOS\\CalculadorMediaMovel.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo CFN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
