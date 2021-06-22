@@ -1,0 +1,29 @@
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\CalculadorMediaMovel.deps.json
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\CalculadorMediaMovel.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\ref\CalculadorMediaMovel.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\CalculadorMediaMovel.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.csproj.AssemblyReference.cache
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\Screens\InitialPage.xaml.g.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.AssemblyInfoInputs.cache
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.AssemblyInfo.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\ref\CalculadorMediaMovel.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\CalculadorMediaMovel.deps.json
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\CalculadorMediaMovel.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\ref\CalculadorMediaMovel.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\bin\Debug\netstandard2.0\CalculadorMediaMovel.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\Screens\InitialPage.xaml.g.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.AssemblyInfoInputs.cache
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.AssemblyInfo.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.csproj.CoreCompileInputs.cache
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\ref\CalculadorMediaMovel.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.pdb

@@ -10,7 +10,7 @@ namespace CalculadorMediaMovel
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Screens.InitialPage();
         }
 
         protected override void OnStart()

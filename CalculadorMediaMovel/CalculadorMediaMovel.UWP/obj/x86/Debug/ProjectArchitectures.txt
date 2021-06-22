@@ -1,0 +1,1 @@
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\CalculadorMediaMovel.UWP.csproj;x86

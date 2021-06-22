@@ -1,0 +1,126 @@
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\App.xbf
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.xr.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.exe
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\resources.pri
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Core\CalculadorMediaMovel.UWP.exe
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.build.appxrecipe
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.dll
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.csproj.AssemblyReference.cache
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.g.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.xaml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.xbf
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.csproj.CopyComplete
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.exe
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.pdb
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\Eduardo CFN\Documents\Atividades\2021\6-junho\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\App.xbf
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\MainPage.xbf
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.xr.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.exe
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\resources.pri
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Core\CalculadorMediaMovel.UWP.exe
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.UWP.build.appxrecipe
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.dll
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\bin\x86\Debug\CalculadorMediaMovel.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.csproj.AssemblyReference.cache
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.g.i.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.g.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.xaml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.xaml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\App.xbf
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MainPage.xbf
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.csproj.CoreCompileInputs.cache
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.csproj.CopyComplete
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.exe
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\CalculadorMediaMovel.UWP.pdb
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\priconfig.xml
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\resources.resfiles
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\pri.resfiles
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\qualifiers.txt
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
