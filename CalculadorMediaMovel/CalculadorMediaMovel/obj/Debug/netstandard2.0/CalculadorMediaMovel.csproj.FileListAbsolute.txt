@@ -27,4 +27,3 @@ C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMov
 C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.dll
 C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\ref\CalculadorMediaMovel.dll
 C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.pdb
-C:\Code\atividade-1\CalculadorMediaMovel\CalculadorMediaMovel\CalculadorMediaMovel\obj\Debug\netstandard2.0\CalculadorMediaMovel.csproj.AssemblyReference.cache

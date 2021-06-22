@@ -7,15 +7,37 @@
         
         <StackLayout>
             
-            <Label x:Name="Titulo" 
+            <Label
                    Text="Calculador de Media Movel" 
                    FontSize="Medium"
             />
-            <Entry x:Name="ValorDiario" 
+            <Label x:Name="labelSubTituloTamanhoVetor"
+                   Text="Informe a quantidade de valore usados na media movel:"
+                   TextColor="Crimson"
+                   FontSize="Medium"       
+            />
+            <Entry x:Name="entryValorTamanhoVetor" 
                    Text=""
                    FontSize="Medium"
             />
-            <Label x:Name="MensagemParaUsuario" 
+            <Label x:Name="labelSubTituloValorDiario"
+                   Text="Preencha o valor Diario:"
+                   TextColor="Blue"
+                   FontSize="Medium"       
+            />
+            <Entry x:Name="entryValorDiaro" 
+                   Text=""
+                   FontSize="Medium"
+            />
+            <Button
+                x:Name="botaoInicial"
+                Text="Enviar"
+                Clicked="botaoInicial_Clicked"
+            />
+
+            <Label x:Name="labelMensagemParaUsuario" 
+                   FontSize="Medium"
+                   TextColor="Black"
                    Text=""
             />
             
