@@ -16,6 +16,7 @@ namespace CalculadorMediaMovel.Screens
         private static int[] vetor;
         private static int mediaMovel = 0;
         private static int valorDiario = 0;
+        private static int ultimaPosicao = 0;
 
 
         public InitialPage()
@@ -53,7 +54,7 @@ namespace CalculadorMediaMovel.Screens
         }
 
      
-        public void calcularMediaMovel(int valor)
+        public void calcularMediaMovel()
         {
             labelMensagemParaUsuario.Text = "Calculando Media Movel";
 
@@ -69,35 +70,45 @@ namespace CalculadorMediaMovel.Screens
             labelMensagemParaUsuario.Text = "Media Movel:" + mediaMovel;
         }
 
-        //TO DO
+
         private void colocarNovoValorDiario(int novoValorDiario)
         {
-            //TO DO: Verificar se valor esta com valor zero ou negativo.
-            for (int i = 0; i < vetor.Length; i++)
-            {
-                vetor[i] = novoValorDiario;
-            }
+            if (ultimaPosicao >= vetor.Length) ultimaPosicao = 0;
+            else vetor[ultimaPosicao++] = novoValorDiario;
         }
 
 
         private void botaoInicial_Clicked(object sender, EventArgs e)
         {
-            
-            if (primeiraVez == true)
+            if(entryValorDiaro.Text != "")
             {
-                coletarDados();
-                popularVetor(valorDiario);
-                calcularMediaMovel(valorDiario);
-                primeiraVez = false;
-                labelSubTituloTamanhoVetor.IsEnabled = false;
-                labelSubTituloTamanhoVetor.IsVisible = false;
-                entryValorTamanhoVetor.IsEnabled = false;
-                entryValorTamanhoVetor.IsVisible = false;
+                labelMensagemParaUsuario.Text = "";
+
+                if (primeiraVez == true && entryValorTamanhoVetor.Text != "")
+                {
+                    coletarDados();
+                    popularVetor(valorDiario);
+                    calcularMediaMovel();
+                    primeiraVez = false;
+                    labelSubTituloTamanhoVetor.IsEnabled = false;
+                    labelSubTituloTamanhoVetor.IsVisible = false;
+                    entryValorTamanhoVetor.IsEnabled = false;
+                    entryValorTamanhoVetor.IsVisible = false;
+                    entryValorTamanhoVetor.Text = "";
+                    entryValorDiaro.Text = "";
+
+                }
+                else
+                {
+                    coletarDados();
+                    colocarNovoValorDiario(valorDiario);
+                    calcularMediaMovel();
+                    entryValorDiaro.Text = "";
+                }
             }
-            else
+            else 
             {
-                coletarDados();
-                calcularMediaMovel(valorDiario);
+                labelMensagemParaUsuario.Text = "Coloque um numero na entrada Valor Diario";
             }
            
         }
