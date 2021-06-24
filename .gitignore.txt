@@ -1,2 +1,0 @@
-CalculadorMediaMovel/CalculadorMediaMovel.Android/obj/Debug/110/android/assets/machine.config
-.vs/CalculadorMediaMovel/v16/.suo

@@ -24,22 +24,38 @@ namespace CalculadorMediaMovel.Screens
             InitializeComponent();
         }
 
-        private void coletarDados() 
+        private bool coletarDados() 
         {
+            bool error = false;
+
             int tamanhoDoVetor = 0;
 
-
-            if (vetor == null)
+            //Verifica se as entradas sao numeros
+            if( !stringSomenteNumeros(entryValorTamanhoVetor.Text) || !stringSomenteNumeros(entryValorDiaro.Text))
             {
-                tamanhoDoVetor = int.Parse(entryValorTamanhoVetor.Text);
-                //Inicializando o 'vetor'.
-                //TO DO: Implementar verificacao da variavel 'tamanhoDoVetor' para verificar se o valor esta zero ou negativo.
-                vetor = new int[tamanhoDoVetor];
+                error = true;
+                labelMensagemParaUsuario.Text = "Somente coloque numeros nas entradas!";
+                entryValorTamanhoVetor.Text = "";
+                entryValorDiaro.Text = "";
             }
-            
-            valorDiario = int.Parse(entryValorDiaro.Text);
 
-            
+
+            if(error == false)
+            {
+                
+                if (vetor == null)
+                {
+                    tamanhoDoVetor = int.Parse(entryValorTamanhoVetor.Text);
+                    //Inicializando o 'vetor'.
+                    //TO DO: Implementar verificacao da variavel 'tamanhoDoVetor' para verificar se o valor esta zero ou negativo.
+                    vetor = new int[tamanhoDoVetor];
+                }
+
+                valorDiario = int.Parse(entryValorDiaro.Text);
+
+            }
+
+            return error;
         }
 
         private void popularVetor(int valor)
@@ -77,16 +93,33 @@ namespace CalculadorMediaMovel.Screens
             else vetor[ultimaPosicao++] = novoValorDiario;
         }
 
+        private bool stringSomenteNumeros(string s)
+        {
+            bool ehNumero = true;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+
+                if (!char.IsNumber(s[i]))
+                {
+                    ehNumero = false;
+                    return ehNumero;
+                }
+            }
+
+            return ehNumero;
+        }
+
 
         private void botaoInicial_Clicked(object sender, EventArgs e)
         {
-            if(entryValorDiaro.Text != "")
-            {
-                labelMensagemParaUsuario.Text = "";
+            
+            labelMensagemParaUsuario.Text = "";
 
-                if (primeiraVez == true && entryValorTamanhoVetor.Text != "")
+            if (!coletarDados())
+            {
+                if (primeiraVez == true)
                 {
-                    coletarDados();
                     popularVetor(valorDiario);
                     calcularMediaMovel();
                     primeiraVez = false;
@@ -100,19 +133,15 @@ namespace CalculadorMediaMovel.Screens
                 }
                 else
                 {
-                    coletarDados();
                     colocarNovoValorDiario(valorDiario);
                     calcularMediaMovel();
                     entryValorDiaro.Text = "";
                 }
+                
             }
-            else 
-            {
-                labelMensagemParaUsuario.Text = "Coloque um numero na entrada Valor Diario";
-            }
-           
-        }
 
-    }
+        }//Fim do metodo 'botaoInicial_Clicked'
 
-}
+    }//Fim da partial class InitialPage
+
+}//Fim do namespace CalculadorMediaMovel.Screens
