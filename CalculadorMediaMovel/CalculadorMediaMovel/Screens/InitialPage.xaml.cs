@@ -172,7 +172,7 @@ namespace CalculadorMediaMovel.Screens
 
         private void botao_sair_Clicked(object sender, EventArgs e)
         {
-            //System.Environment.Exit(0);
+            System.Environment.Exit(0);
         }
 
         #endregion
