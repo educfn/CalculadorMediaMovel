@@ -30,11 +30,18 @@ namespace CalculadorMediaMovel.Screens
 
             int tamanhoDoVetor = 0;
 
-            //Verifica se as entradas sao numeros
-            if( !stringSomenteNumeros(entryValorTamanhoVetor.Text) || !stringSomenteNumeros(entryValorDiaro.Text))
+            //Verifica se as entradas estao vazias.
+            if ((primeiraVez && entryValorTamanhoVetor.Text == "") || entryValorDiaro.Text == "")
             {
                 error = true;
-                labelMensagemParaUsuario.Text = "Somente coloque numeros nas entradas!";
+                labelMensagemParaUsuario.Text = "Preencha os valores";
+            } 
+
+            //Verifica se as entradas sao numeros
+            else if (!stringSomenteNumeros(entryValorTamanhoVetor.Text) || !stringSomenteNumeros(entryValorDiaro.Text))
+            {
+                error = true;
+                labelMensagemParaUsuario.Text = "Somente coloque numeros nas entradas";
                 entryValorTamanhoVetor.Text = "";
                 entryValorDiaro.Text = "";
             }
@@ -49,6 +56,7 @@ namespace CalculadorMediaMovel.Screens
                     //Inicializando o 'vetor'.
                     //TO DO: Implementar verificacao da variavel 'tamanhoDoVetor' para verificar se o valor esta zero ou negativo.
                     vetor = new int[tamanhoDoVetor];
+                   
                 }
 
                 valorDiario = int.Parse(entryValorDiaro.Text);
@@ -68,7 +76,6 @@ namespace CalculadorMediaMovel.Screens
                 vetor[i] = valor;
             }
         }
-
      
         public void calcularMediaMovel()
         {
@@ -86,13 +93,13 @@ namespace CalculadorMediaMovel.Screens
             labelMensagemParaUsuario.Text = "Media Movel:" + mediaMovel;
         }
 
-
         private void colocarNovoValorDiario(int novoValorDiario)
         {
             if (ultimaPosicao >= vetor.Length) ultimaPosicao = 0;
             else vetor[ultimaPosicao++] = novoValorDiario;
         }
 
+        #region Metodos_auxiliadores
         private bool stringSomenteNumeros(string s)
         {
             bool ehNumero = true;
@@ -110,7 +117,9 @@ namespace CalculadorMediaMovel.Screens
             return ehNumero;
         }
 
+        #endregion
 
+        #region botoes
         private void botaoInicial_Clicked(object sender, EventArgs e)
         {
             
@@ -122,13 +131,13 @@ namespace CalculadorMediaMovel.Screens
                 {
                     popularVetor(valorDiario);
                     calcularMediaMovel();
-                    primeiraVez = false;
                     labelSubTituloTamanhoVetor.IsEnabled = false;
                     labelSubTituloTamanhoVetor.IsVisible = false;
                     entryValorTamanhoVetor.IsEnabled = false;
                     entryValorTamanhoVetor.IsVisible = false;
                     entryValorTamanhoVetor.Text = "";
                     entryValorDiaro.Text = "";
+                    primeiraVez = false;
 
                 }
                 else
@@ -141,6 +150,32 @@ namespace CalculadorMediaMovel.Screens
             }
 
         }//Fim do metodo 'botaoInicial_Clicked'
+
+        private void botao_reset_Clicked(object sender, EventArgs e)
+        {
+            primeiraVez = true;
+            vetor = null;
+            mediaMovel = 0;
+            valorDiario = 0;
+            ultimaPosicao = 0;
+            labelSubTituloTamanhoVetor.Text = "Informe a quantidade de valore usados na media movel:";
+            labelSubTituloTamanhoVetor.IsVisible = true;
+            labelSubTituloTamanhoVetor.IsEnabled = true;
+            entryValorTamanhoVetor.Text = "";
+            entryValorTamanhoVetor.IsEnabled = true;
+            entryValorTamanhoVetor.IsVisible = true;
+            labelSubTituloValorDiario.Text = "Preencha o valor Diario:";
+            entryValorDiaro.Text = "";
+            labelMensagemParaUsuario.Text = "";
+
+        }//Fim do metodo 'botao_sair_Clicked'
+
+        private void botao_sair_Clicked(object sender, EventArgs e)
+        {
+            //System.Environment.Exit(0);
+        }
+
+        #endregion
 
     }//Fim da partial class InitialPage
 
